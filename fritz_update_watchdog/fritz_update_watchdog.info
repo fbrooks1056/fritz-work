@@ -1,0 +1,3 @@
+name = Fritz Update Watchdog
+description = Will do something
+core = 7.x
